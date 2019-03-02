@@ -1,0 +1,36 @@
+i{color:DarkSlateGrey;
+	text-decoration:underline;
+	font-size:20px;}
+h3{;color:indigo;
+	font-family:"Blackadder ITC",sans-serif,monospace;
+	font-size:150%;}
+ul,dl,p{color:Navy ;
+	font-family:"Blackadder ITC",serif;
+	font-size:150%;}
+
+.w,b{color:MidNightBlue;
+	border-style:inset;
+	border-color:Goldenrod;}
+
+	a:link{color:black;}
+	a:hover{color:green;}
+	a:active{color:blue;}
+	a:visited{color:yellow;}
+	a{text-decoration:none;}
+
+li{font-weight:600;
+	font-style:italic;}
+ul{list-style-image:url(arrow2.png);
+	list-style-position:inside;}
+img{border:5px outset Khaki;}
+body{background:linear-gradient(transparent,DodgerBlue,DarkTurquoise 30%,Aquamarine 50%);}
+#orn{background:url(ornament.png) repeat;
+	width:160px;
+	margin-left:865px;
+	hight:100px;
+	border:2px solid LightSlateGrey;
+}
+button{
+background:linear-gradient(to bottom right,MediumAquamarine 20%,LightSeaGreen 50%,Teal 60%);
+border:inset  Khaki 2px;
+}

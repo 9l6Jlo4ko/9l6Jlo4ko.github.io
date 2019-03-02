@@ -1,0 +1,25 @@
+#wrapper{
+width="800"
+
+}
+#header{
+border:3px groove Khaki;
+border-bottom:none;
+}
+#sidebar{
+border: 3px groove Khaki;
+border-left:none;
+float:left;
+width:600px;
+}
+#content{
+margin-left:610px;
+border-right:3px groove Khaki;
+}
+#footer{
+border: 3px groove Khaki;
+border-top:none;
+}
+.clear{
+clear:both;
+}
